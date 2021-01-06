@@ -1,5 +1,5 @@
 window.addEventListener('load',()=>{
-  const api_key= process.env.API_KEY;
+  const api_key= "6274503762ffc89f4efbecb5791450e7";
   let lat;
   let long;
   navigator.geolocation.getCurrentPosition(position => {
